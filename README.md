@@ -15,7 +15,6 @@
 * Full Functioning Sign In / Sing Up section
 * Meaning full Components and file structure
 * Easy Calls to Action
-* Rechart 
 * axios 
 * react form hook
 * heroku 
@@ -25,7 +24,10 @@
 * Google Firebase
 * react-firebase-hooks
 * Vanilla CSS
-* Bootstrap
+* ReactJS 
+* DaisyUI
+* Firebase Auth
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,6 +1,32 @@
 # Getting Started with Create React App
 ## Home Depot, A home decor manufacturer full-stack website.
 ## Live site : https://full-stack-12.web.app/
+
+
+## Features, Functionalities & Used Technologies::
+- Buyers can pay through Stripe payment system,
+- Admin can add new product & can delete any existing product.
+- Admin can ship the paid order & can delete any unpaid order.
+- Admin can change other users’ status to admin.
+* Single Page Application
+* JSON data
+* Clear Navigation and Active Link
+* Mobile & Desktop Responsive
+* Full Functioning Sign In / Sing Up section
+* Meaning full Components and file structure
+* Easy Calls to Action
+* Rechart 
+* axios 
+* react form hook
+* heroku 
+* Firebase Hosting
+* React Router
+* React-Bootstrap
+* Google Firebase
+* react-firebase-hooks
+* Vanilla CSS
+* Bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

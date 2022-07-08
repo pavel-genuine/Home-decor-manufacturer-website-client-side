@@ -20,7 +20,6 @@
 * heroku 
 * Firebase Hosting
 * React Router
-* React-Bootstrap
 * Google Firebase
 * react-firebase-hooks
 * Vanilla CSS
